@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(rgb(255, 4, 4), rgb(255, 179, 0), rgb(132, 255, 0), rgb(0, 204, 255));
+    font-family: 'DynaPuff', cursive;
+}
+
+.head_div {
+    background-color: white;
+    color: cornflowerblue;
+}
+
+.head_p {
+    color: red;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+.start_btn {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.div_foot {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    font-size: 25px;
+    line-height: 2;
+    text-shadow: 5px 5px 3px red;
+}
